@@ -73,7 +73,9 @@ height:300px;
   width:300px;
   height:300px;
   border-radius:25px;
+  cursor:pointer;
 }
-#projects img:hover{
-box-shadow: 0 0 5px 0 black;
+
+#projects img{
+  box-shadow:0 0 20px 0 black;
 }
